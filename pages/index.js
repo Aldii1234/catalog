@@ -1,5 +1,6 @@
-import ProductCard from '../../katalog-cart/components/ProductCard';
-import CartIcon from '../../katalog-cart/components/CartIcon';
+import ProductCard from '../components/ProductCard';
+import CartIcon from '../components/CartIcon';
+
 
 const products = [
   {
